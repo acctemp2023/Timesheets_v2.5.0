@@ -1,0 +1,57 @@
+File: @Run It_1_TimeSheetSets.bat
+SHA256: a65669c2467777f5a528aab8595ec2c4c82ab59d09203818bbce55cdad3ab00b
+
+File: @Run It_2_preValidator.bat
+SHA256: 1c361d613dcb2526a29cf50fc6e3be75266a5aaee2faf0ccb0e5dcc4727d98d7
+
+File: @Run It_3_8Codes.bat
+SHA256: 0027b1bf84a06671e83aa6d1808e7cff3dcbf18741a00faed8dbcbcca693ae88
+
+File: @Run It_4_FINAL_Allocs.bat
+SHA256: 0ba35014a9aac4ac9bebb2f1fb68cda9710defa89f49bad0279ecebd6f9dc861
+
+File: SHA256_hashes.txt
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+File: script_paths.xlsx
+SHA256: 91184584bf7b08548c27afdcae218522c64f1a00c3cf03650957da1945984b3f
+
+File: Macho-Man-Randy-Savage.xlsx
+SHA256: 59e5c8a133346f33d6bb96662929472d0622c9ee26957e0e2fec89e71bfb2d7e
+
+File: approved_result_grp.py
+SHA256: 7d949eff94029844bc183f381e3b12c6cb31d5b40f7a7ba2a11536de56bc25c1
+
+File: blockchain_realloactions_just8s.py
+SHA256: 1963f6dfbb051e44feafc93020f59bfb08275e0d353df2818e4134c59d3c9079
+
+File: df_omni_merge_v1p5.py
+SHA256: 1d082b8f388a397f65fbe58ca1c03174283e14e4c4c2d26ac3fd513f45bafd86
+
+File: final_alloc_main.py
+SHA256: 9f2e1032ab5d4e2e3e9f762a086a4cf7cca532985d93e9bd9582a312a36e1562
+
+File: fom_development_3.py
+SHA256: 1f49d281a69e681a878b86524fb922eecbef19b23b21a3b3a573f81d2f38f2fc
+
+File: main.py
+SHA256: f9e15a2658b1a17c06500dbf22ad5445d9d51a9acbcf19b3957023a0296ffde2
+
+File: make_wbxl.py
+SHA256: 73e7847fe1227bd6781f05424ed6cbcdf43c630a8c7cb119d6f111cd3c9e4421
+
+File: pre_VALIDATOR.py
+SHA256: 075a4ecbc29c595d23a92672fb6986c3121d2209d63119afbd44d1ce28215cde
+
+File: requirements.txt
+SHA256: 0008fdfa61be7e4384bc261baba6708131ff79a4ffb4c423242e0f0e99330cd7
+
+File: supp_paths.py
+SHA256: a42200e150a655585f0ce112c6ebda85579c954bd141f3325dbfde219215bacf
+
+File: alloc_template.csv
+SHA256: cd4b00f6a12d96273658554ee94ccf669511464c3eb330848ad510726e678dda
+
+File: approval_support_template.csv
+SHA256: 1047b09a52d5f27570d65c64865fb0f6df94924f7a52e57a0801eef10c2de739
+
