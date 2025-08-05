@@ -1,0 +1,28 @@
+*.xls
+*.xlsx
+_archive_gen/
+_archive_py/
+_archive_templates/
+_debug/
+NEW/
+User_Sourced_Examples/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+
+# Allowed excel file(s)
+!script_paths.xlsx
